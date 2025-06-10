@@ -1,5 +1,3 @@
 I am notes
 
-I'm still added
-
-git reset --soft HEAD~1
+I am added
