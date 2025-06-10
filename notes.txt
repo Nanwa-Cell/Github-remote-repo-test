@@ -7,3 +7,5 @@ I'm writing this line at github-website
 
 testing line to use "git reset --soft HEAD~1"
 ...not shure if VS and github working together like there supposed to do.
+
+merge-test solved
