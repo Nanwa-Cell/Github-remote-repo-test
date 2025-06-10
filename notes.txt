@@ -5,7 +5,7 @@ I am added
 
 I'm writing this line at github-website
 
-testing line to use "git reset --soft HEAD~1"
-...not shure if VS and github working together like there supposed to do.
+VS and Github are working together.
+I finally got it  \(^o^)/
 
 merge-test solved
